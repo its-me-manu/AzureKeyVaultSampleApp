@@ -1,0 +1,42 @@
+D:\Work Space\Sample MVC\bin\Debug\net6.0\appsettings.Development.json
+D:\Work Space\Sample MVC\bin\Debug\net6.0\appsettings.json
+D:\Work Space\Sample MVC\bin\Debug\net6.0\Sample MVC.exe
+D:\Work Space\Sample MVC\bin\Debug\net6.0\Sample MVC.deps.json
+D:\Work Space\Sample MVC\bin\Debug\net6.0\Sample MVC.runtimeconfig.json
+D:\Work Space\Sample MVC\bin\Debug\net6.0\Sample MVC.dll
+D:\Work Space\Sample MVC\bin\Debug\net6.0\Sample MVC.pdb
+D:\Work Space\Sample MVC\bin\Debug\net6.0\Azure.Core.dll
+D:\Work Space\Sample MVC\bin\Debug\net6.0\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+D:\Work Space\Sample MVC\bin\Debug\net6.0\Azure.Identity.dll
+D:\Work Space\Sample MVC\bin\Debug\net6.0\Azure.Security.KeyVault.Keys.dll
+D:\Work Space\Sample MVC\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+D:\Work Space\Sample MVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Work Space\Sample MVC\bin\Debug\net6.0\Microsoft.Extensions.Azure.dll
+D:\Work Space\Sample MVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Work Space\Sample MVC\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Work Space\Sample MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Work Space\Sample MVC\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Work Space\Sample MVC\bin\Debug\net6.0\Renci.SshNet.dll
+D:\Work Space\Sample MVC\bin\Debug\net6.0\SshNet.Security.Cryptography.dll
+D:\Work Space\Sample MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Work Space\Sample MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Work Space\Sample MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Work Space\Sample MVC\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Work Space\Sample MVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work Space\Sample MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work Space\Sample MVC\obj\Debug\net6.0\Sample MVC.csproj.AssemblyReference.cache
+D:\Work Space\Sample MVC\obj\Debug\net6.0\Sample MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work Space\Sample MVC\obj\Debug\net6.0\Sample MVC.AssemblyInfoInputs.cache
+D:\Work Space\Sample MVC\obj\Debug\net6.0\Sample MVC.AssemblyInfo.cs
+D:\Work Space\Sample MVC\obj\Debug\net6.0\Sample MVC.csproj.CoreCompileInputs.cache
+D:\Work Space\Sample MVC\obj\Debug\net6.0\Sample MVC.MvcApplicationPartsAssemblyInfo.cs
+D:\Work Space\Sample MVC\obj\Debug\net6.0\Sample MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Work Space\Sample MVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\Work Space\Sample MVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\Work Space\Sample MVC\obj\Debug\net6.0\scopedcss\bundle\Sample MVC.styles.css
+D:\Work Space\Sample MVC\obj\Debug\net6.0\Sample MVC.csproj.CopyComplete
+D:\Work Space\Sample MVC\obj\Debug\net6.0\Sample MVC.dll
+D:\Work Space\Sample MVC\obj\Debug\net6.0\refint\Sample MVC.dll
+D:\Work Space\Sample MVC\obj\Debug\net6.0\Sample MVC.pdb
+D:\Work Space\Sample MVC\obj\Debug\net6.0\Sample MVC.genruntimeconfig.cache
+D:\Work Space\Sample MVC\obj\Debug\net6.0\ref\Sample MVC.dll
